@@ -13,6 +13,8 @@ Este es un sencillo script de Python que permite descargar videos de YouTube uti
 - [Licencia](#licencia)
 
 ## Descripción
+![image](https://github.com/user-attachments/assets/dc312496-263d-486e-8eea-0b792af89fbc)
+
 
 El script `youtube.py` proporciona una interfaz gráfica simple para descargar videos de YouTube. Solo necesitas pegar la URL del video en el campo de entrada y hacer clic en el botón "Download". El video se descargará automáticamente en la carpeta especificada.
 
