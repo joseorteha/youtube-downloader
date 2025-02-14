@@ -7,10 +7,7 @@ Este es un sencillo script de Python que permite descargar videos de YouTube uti
 - [Descripción](#descripción)
 - [Requisitos](#requisitos)
 - [Instalación](#instalación)
-- [Uso](#uso)
-- [Estructura del Proyecto](#estructura-del-proyecto)
-- [Contribuciones](#contribuciones)
-- [Licencia](#licencia)
+
 
 ## Descripción
 ![image](https://github.com/user-attachments/assets/dc312496-263d-486e-8eea-0b792af89fbc)
